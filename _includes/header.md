@@ -1,6 +1,10 @@
 
-# Carlos Bonetti
+[![Avatar](https://secure.gravatar.com/avatar/7c0f70f86fa973656be9ec9084671662?s=150)](/index.html)
 
-Personal website
+# [Carlos Bonetti](/index.html)
 
-Visit [My Github Profile](https://github.com/CarlosBonetti)
+Computer science student at [UFSC](http://ufsc.br) and software developer
+
+Visit [My GitHub Profile](https://github.com/CarlosBonetti)
+
+* [Curriculum \[portuguese\]](/curriculum.html)

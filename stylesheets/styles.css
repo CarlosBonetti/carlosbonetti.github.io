@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#444;
   font-weight:300;
 }
 
@@ -24,18 +24,51 @@ h1 {
   font-size:28px;
 }
 
+h1 a, h1 a:hover {
+  color:#222;
+  border:0;
+  font-weight:bold;
+}
+
 h2 {
   color:#393939;
+  padding-bottom:6px;
+  border-bottom:1px solid #eee;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
 }
 
+img {
+  border:1px solid #ddd;
+  padding:4px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+::selection {
+  background: #eee;
+}
+::-moz-selection {
+  background: #eee;
+}
+
 a {
-  color:#39c;
+  color:#28a;
   font-weight:400;
   text-decoration:none;
+  border-bottom:1px dashed #ccc;
+}
+
+a:hover {
+  color:#444;
+  border-bottom:1px solid #ccc;
+}
+
+a:active {
+  background-color:#eee;
 }
 
 a small {
@@ -46,7 +79,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:890px;
   margin:0 auto;
 }
 
@@ -65,7 +98,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;  
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -95,47 +128,67 @@ img {
   max-width:100%;
 }
 
+ul {
+  list-style:square;
+}
+
+dd + dt {
+  margin-top:15px;
+}
+
 header {
-  width:270px;
+  width:260px;
   float:left;
   position:fixed;
 }
 
 header ul {
-  list-style:none;
   height:40px;
-  
   padding:0;
-  
-  background: #eee;
-  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  
-  border-radius:5px;
-  border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
-  width:270px;
+  margin-left:25px;
 }
 
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #d2d2d2;
-  height:40px;
+header li p {
+  margin:0;
+  padding:0;
 }
 
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:40px;
+header li a {
+  border:0;
+  color:#444;
+}
+
+header img:hover {
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 2s;
+  -moz-animation-iteration-count: 1;
+  -moz-animation-timing-function: ease;
+  -ms-animation-name: spin;
+  -ms-animation-duration: 2s;
+  -ms-animation-iteration-count: 1;
+  -ms-animation-timing-function: ease;
+
+  animation-name: spin;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+
+@-moz-keyframes spin {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  from {transform:rotate(0deg);}
+  to {transform:rotate(360deg);}
 }
 
 strong {
@@ -143,24 +196,8 @@ strong {
   font-weight:700;
 }
 
-header ul li + li {
-  width:88px;
-  border-left:1px solid #fff;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
-
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
-
 section {
-  width:500px;
+  width:590px;
   float:right;
   padding-bottom:50px;
 }
@@ -177,40 +214,42 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:260px;
   float:left;
   position:fixed;
   bottom:50px;
+  font-size:0.9em;
+  color:#888;
 }
 
 @media print, screen and (max-width: 960px) {
-  
+
   div.wrapper {
     width:auto;
     margin:0;
   }
-  
+
   header, section, footer {
     float:none;
     position:static;
     width:auto;
   }
-  
+
   header {
     padding-right:320px;
   }
-  
+
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
-  
+
   header a small {
     display:inline;
   }
-  
+
   header ul {
     position:absolute;
     right:50px;
@@ -222,15 +261,15 @@ footer {
   body {
     word-wrap:break-word;
   }
-  
+
   header {
     padding:0;
   }
-  
+
   header ul, header p.view {
     position:static;
   }
-  
+
   pre, code {
     word-wrap:normal;
   }
@@ -240,7 +279,7 @@ footer {
   body {
     padding:15px;
   }
-  
+
   header ul {
     display:none;
   }
