@@ -8,6 +8,7 @@ title: Currículo | Carlos Bonetti
 * Domínio em Orientação a Objetos
 * Noções em Desenvolvimento Orientado a Testes (Test-Driven Development)
 * Domínio em sistemas Unix e conhecimentos em Bash Script
+* Conhecimentos em sistemas de versionamento (Git)
 * Entusiasta do movimento Software Livre
 
 ### Desenvolvimento web (Back-End)
@@ -20,7 +21,7 @@ title: Currículo | Carlos Bonetti
 ### Desenvolvimento web (Front-End)
 
 * Domínio em HTML5
-* Domínio em Javascript e ferramentas: jQuery, CoffeeScript, Underscore, Grunt (Task-Runner), RequireJS ...
+* Domínio em Javascript e ferramentas: jQuery, CoffeeScript, NodeJS, Grunt (Task-Runner), RequireJS ...
 * Domínio em CSS3 e pré-compiladores: SASS, LESS
 
 ### Linguagens
@@ -74,7 +75,6 @@ title: Currículo | Carlos Bonetti
 2010 - II FIICE - Feira Interna de Iniciação Científica e Extensão do Instituto Federal Catarinense – Campus Camboriú
 : Projeto: _"O uso das novas tecnologias da internet no processo de ensino-aprendizagem"_
 : Premiação: 3º lugar na área “Informática”
-
 
 ## Idiomas
 
