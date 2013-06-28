@@ -153,11 +153,6 @@ header li p {
   padding:0;
 }
 
-header li a {
-  border:0;
-  color:#444;
-}
-
 header img:hover {
   -webkit-animation-name: spin;
   -webkit-animation-duration: 2s;
