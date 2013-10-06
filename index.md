@@ -12,7 +12,6 @@ Graduation prevision: December 2015.
 ### Contact
 
 * <carlosb_bc@hotmail.com>
-* <carlosbonetti@inf.ufsc.br>
 
 ### Curriculum
 
