@@ -15,19 +15,13 @@
   <body>
     <div class="wrapper">
       <header>
-        {% capture header %}
-          {% include header.md %}
-        {% endcapture %}
-        {{ header | markdownify }}
+        {% include header.html %}
       </header>
       <section>
         {{ content }}
       </section>
       <footer>
-        {% capture footer %}
-          {% include footer.md %}
-        {% endcapture %}
-        {{ footer | markdownify }}
+        {% include footer.html %}
       </footer>
     </div>
 
