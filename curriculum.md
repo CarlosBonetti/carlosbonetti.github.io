@@ -3,6 +3,8 @@ layout: default
 title: Currículo | Carlos Bonetti
 ---
 
+# Curriculum (portuguese)
+
 ## Qualificações
 
 * Domínio em Orientação a Objetos
@@ -34,8 +36,8 @@ title: Currículo | Carlos Bonetti
 ## Formação acadêmica
 
 2012-2015 - Bacharelado em Ciências da Computação (em curso)
-: [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina
-: Turma de 2012/1
+: [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina. Turma de 2012/1
+: [University of Toronto](http://www.utoronto.ca/) em 2014 pelo Ciências sem Fronteiras
 
 2009-2011 - Técnico em Informática
 : [Instituto Federal Catarinense (IFC)](http://www.ifc.edu.br/site/), Campus Camboriú
@@ -53,6 +55,10 @@ title: Currículo | Carlos Bonetti
 : Função: Desenvolvimento web, manutenção e montagem de computadores, design e gerência de equipe
 
 ## Atividades acadêmicas
+
+2014-2014 - Bolsista da [CNPq](http://www.cnpq.br/)
+: Programa [Ciências sem Fronteiras](http://www.cienciasemfronteiras.gov.br/)
+: Universidade de destino: [University of Toronto](http://www.utoronto.ca/), ON, Canada
 
 2012-2013 - Bolsista da [CAPES](http://www.capes.gov.br/)
 : Programa "Jovens Talentos para a Ciência"
