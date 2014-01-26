@@ -46,6 +46,7 @@ img {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+  max-width: 100%;
 }
 
 ::selection {
@@ -124,10 +125,6 @@ th {
   color:#444;
 }
 
-img {
-  max-width:100%;
-}
-
 ul {
   list-style:square;
 }
@@ -153,22 +150,28 @@ header li p {
   padding:0;
 }
 
+header img {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}
+
 header img:hover {
   -webkit-animation-name: spin;
-  -webkit-animation-duration: 2s;
+  -webkit-animation-duration: 1.7s;
   -webkit-animation-iteration-count: 1;
   -webkit-animation-timing-function: ease;
   -moz-animation-name: spin;
-  -moz-animation-duration: 2s;
+  -moz-animation-duration: 1.7s;
   -moz-animation-iteration-count: 1;
   -moz-animation-timing-function: ease;
   -ms-animation-name: spin;
-  -ms-animation-duration: 2s;
+  -ms-animation-duration: 1.7s;
   -ms-animation-iteration-count: 1;
   -ms-animation-timing-function: ease;
 
   animation-name: spin;
-  animation-duration: 2s;
+  animation-duration: 1.7s;
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
