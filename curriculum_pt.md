@@ -3,7 +3,7 @@ layout: default
 title: Currículo | Carlos Bonetti
 ---
 
-# Curriculum (portuguese)
+# Currículo
 
 ## Qualificações
 

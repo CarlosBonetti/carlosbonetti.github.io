@@ -14,4 +14,4 @@ I'm a third year Computer Science student at Universidade Federal de Santa Catar
 
 ### Curriculum
 
-Visit my [LinkedIn profile](http://br.linkedin.com/pub/carlos-bonetti/37/862/7aa/) or see the [HTML version](/curriculum.html) (in portuguese).
+Visit my [LinkedIn profile](http://br.linkedin.com/pub/carlos-bonetti/37/862/7aa/) or see the [HTML version](/curriculum_pt.html) (in portuguese).
