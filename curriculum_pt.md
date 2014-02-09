@@ -5,39 +5,44 @@ title: Currículo | Carlos Bonetti
 
 # Currículo
 
-## Qualificações
+## Qualificações e Habilidades
 
 * Domínio em Orientação a Objetos
 * Noções em Desenvolvimento Orientado a Testes (Test-Driven Development)
-* Domínio em sistemas Unix e conhecimentos em Bash Script
-* Conhecimentos em sistemas de versionamento (Git)
-* Entusiasta do movimento Software Livre
+* Domínio em sistemas Unix
+* Sistemas de versionamento (Git, SVN)
+* SQL e NoSQL databases
 
-### Desenvolvimento web (Back-End)
+#### Languages and paradigms
 
-* Domínio em PHP e frameworks (Zend, Wordpress)
-* Conhecimentos em Ruby e Ruby on Rails
-* Domínio em banco de dados MySQL e linguagem de consulta SQL
-* Noções em bancos de dados não-relacionais: Mongo
+* C, C++ e Assembly (intermediários)
+* Java, Ruby and Python programming (intermediários)
+* PHP avançado
+* Haskell (paradigma funcional) e Prolog (paradigma lógico) intermediários
+* Bash (Unix shell scripting)
 
-### Desenvolvimento web (Front-End)
+#### Web development
 
-* Domínio em HTML5
-* Domínio em Javascript e ferramentas: jQuery, CoffeeScript, NodeJS, Grunt (Task-Runner), RequireJS ...
-* Domínio em CSS3 e pré-compiladores: SASS, LESS
+* HTML5
+* CSS3 e pré-compiladores (Less, Sass)
+* Javascript e ferramentas: jQuery, CoffeeScript, NodeJS, Grunt ...
+* PHP e frameworks (Zend, CakePHP, Wordpress)
+* Ruby e Ruby on Rails
+* Python e Django
 
-### Linguagens
+### Interesses
 
-* Conhecimentos intermediários em C e C++
-* Conhecimentos intermediários em Java
-* Noções em Assembly
-* Conhecimentos em Python
+* Engenharia de Software e desenvolvimento: Web, Desktop, Mobile e Embarcados
+* Linux e software livre
+* Test Development
+* Métodos ágeis
+* Música e Filosofia
 
 ## Formação acadêmica
 
-2012-2015 - Bacharelado em Ciências da Computação (em curso)
+2012-2016 - Bacharelado em Ciências da Computação
 : [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina. Turma de 2012/1
-: [University of Toronto](http://www.utoronto.ca/) em 2014 pelo Ciências sem Fronteiras
+: [University of Toronto](http://www.utoronto.ca/) em 2014 pelo programa [Ciências sem Fronteiras](http://www.cienciasemfronteiras.gov.br/)
 
 2009-2011 - Técnico em Informática
 : [Instituto Federal Catarinense (IFC)](http://www.ifc.edu.br/site/), Campus Camboriú
@@ -48,7 +53,7 @@ title: Currículo | Carlos Bonetti
 
 2011-2011 - Estágio: Índice Educação
 : R. 901, 400 sala 507. Centro – Balneário Camboriú, SC
-: Função: Desenvolvimento do [website da empresa](http://indiceeducacao.com.br)
+: Função: Desenvolvimento do website da empresa
 
 2009-2010 - Estágio: Laboratório Multidisciplinar Avançado de Transações Imobiliárias e Informática
 : Instituto Federal Catarinense, Campus Camboriú
