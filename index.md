@@ -14,4 +14,4 @@ I'm a third year Computer Science student at Universidade Federal de Santa Catar
 
 ### Curriculum
 
-See the [HTML version](/curriculum_pt.html) (in portuguese).
+See the HTML version [in portuguese](/curriculum_pt.html) or [in english](/curriculum_en.html).
