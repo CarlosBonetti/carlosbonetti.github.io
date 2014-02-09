@@ -40,7 +40,7 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-img {
+.framed {
   border:1px solid #ddd;
   padding:4px;
   -webkit-border-radius: 3px;
@@ -150,13 +150,13 @@ header li p {
   padding:0;
 }
 
-header img {
+.spin {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
 }
 
-header img:hover {
+.spin:hover {
   -webkit-animation-name: spin;
   -webkit-animation-duration: 1.7s;
   -webkit-animation-iteration-count: 1;
