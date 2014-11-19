@@ -154,39 +154,16 @@ header li p {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
+  
+  -webkit-transition: -webkit-transform 1.7s cubic-bezier(0.6, 0, 0.6, 1); /* Old Chrome and Firefox*/
+  -o-transition: -webkit-transform 1.7s cubic-bezier(0.6, 0, 0.6, 1); /* Opera < 10.5 */
+  transition: -webkit-transform 1.7s cubic-bezier(0.6, 0, 0.6, 1); /* 6.1 <= Safari <= 8.0 */
+  transition: transform 1.7s cubic-bezier(0.6, 0, 0.6, 1); /* CSS3 standard */
 }
 
 .spin:hover {
-  -webkit-animation-name: spin;
-  -webkit-animation-duration: 1.7s;
-  -webkit-animation-iteration-count: 1;
-  -webkit-animation-timing-function: ease;
-  -moz-animation-name: spin;
-  -moz-animation-duration: 1.7s;
-  -moz-animation-iteration-count: 1;
-  -moz-animation-timing-function: ease;
-  -ms-animation-name: spin;
-  -ms-animation-duration: 1.7s;
-  -ms-animation-iteration-count: 1;
-  -ms-animation-timing-function: ease;
-
-  animation-name: spin;
-  animation-duration: 1.7s;
-  animation-iteration-count: 1;
-  animation-timing-function: ease;
-}
-
-@-moz-keyframes spin {
-  from { -moz-transform: rotate(0deg); }
-  to { -moz-transform: rotate(360deg); }
-}
-@-webkit-keyframes spin {
-  from { -webkit-transform: rotate(0deg); }
-  to { -webkit-transform: rotate(360deg); }
-}
-@keyframes spin {
-  from {transform:rotate(0deg);}
-  to {transform:rotate(360deg);}
+  -webkit-transform: rotate(360deg); /* Safari and other old browsers*/
+  transform: rotate(360deg);
 }
 
 strong {
