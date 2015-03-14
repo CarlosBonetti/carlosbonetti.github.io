@@ -7,7 +7,7 @@ title: Résumé | Carlos Bonetti
 
 ## Abilities and Qualifications
 
-* Domain on Object Oriented programming
+* Object Oriented Programming and design patterns
 * Test-Driven Development
 * Unix systems
 * Version management systems (Git and SVN)
@@ -15,17 +15,17 @@ title: Résumé | Carlos Bonetti
 
 #### Languages and paradigms
 
-* Intermediate C, C++ and Assembly languages programming
-* Intermiate Java, Ruby and Python programming
+* C, C++ and Assembly languages programming
+* Java, Ruby, PHP and Python programming
 * Advanced PHP programming
-* Basic Haskell (functional paradigm) and Prolog (logic paradigm) programming
+* Basic Haskell, Scheme (functional paradigm) and Prolog (logic paradigm) programming
 * Bash (Unix shell scripting)
 
 #### Web development
 
 * HTML5
 * CSS3 and pre-compilers (Less, Sass)
-* Javascript and tools: jQuery, CoffeeScript, NodeJS, Grunt ...
+* Javascript and tools: jQuery, CoffeeScript, NodeJS, Grunt, Angular
 * PHP and frameworks (Zend, CakePHP, Wordpress)
 * Ruby and Ruby on Rails
 * Python and Django
@@ -36,27 +36,36 @@ title: Résumé | Carlos Bonetti
 * Linux systems and Open Software
 * Test Development
 * Agile methods
-* Music and philosophy
+* Classical Guitar and Brazilian Music
 
 ## Education
 
-2012-2016 - Undergraduate in Computer Science
-: [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina. Turma de 2012/1
+2012-present - Undergraduate in Computer Science
+: [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina.
 : [University of Toronto](http://www.utoronto.ca/) in 2014 by [Ciências sem Fronteiras](http://www.cienciasemfronteiras.gov.br/) scholarship program.
 
-2009-2011 - Computing Technician
+2009-2011 - Computer Technician
 : [Instituto Federal Catarinense (IFC)](http://www.ifc.edu.br/site/), Campus Camboriú
 : Workload: 1080h
 
 ## Professional Experience
 
+2014 - Internship: [Wynford](http://www.wynfordtwg.com/)
+: Toronto, Ontario, Canada
+: Roles: Software development and maintenance
+
 2011-2011 - Internship: Índice Educação
 : R. 901, 400 sala 507. Center – Balneário Camboriú, SC, Brazil
-: Function: Company website development
+: Roles: Web development
 
 2009-2010 - Internship: Laboratório Multidisciplinar Avançado de Transações Imobiliárias e Informática
 : [Instituto Federal Catarinense (IFC)](http://www.ifc.edu.br/site/), Campus Camboriú
-: Function: Web development, computers maintenance, graphic design and team management
+: Roles: Web development, computers maintenance, graphic design and team management
+
+## Languages
+
+* Portuguese - Native
+* English - Fluent
 
 ## Academic activities
 
@@ -68,24 +77,19 @@ title: Résumé | Carlos Bonetti
 : Scientific Initiation Program "Jovens Talentos para a Ciência"
 
 2009-2010 - FAPESC scholarship
-: Fundação de Apoio à Pesquisa Científica e Tecnológica do Estado de Santa Catarina
+: _Fundação de Apoio à Pesquisa Científica e Tecnológica do Estado de Santa Catarina_
 : Scientific Initiation Program
 
 ### Presentations and Prizes
 
 2011 - III FIICE - Feira Interna de Iniciação Científica e Extensão do Instituto Federal Catarinense – Campus Camboriú
-: Project: _"DICCA#4: Desafio Interno do Instituto Federal Catarinense Campus Camboriú"_ \[[website do projeto](http://www.ifc-camboriu.edu.br/dicca/)\]
+: Project: _"DICCA#4: Desafio Interno do Instituto Federal Catarinense Campus Camboriú"_ \
 : 1st place on "Extension" category
 
-2010 - IV [MICTI](http://www.biblioteca.ifc-camboriu.edu.br/micti/) - Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar
+2010 - IV MICTI - Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar
 : Project: _"O uso das novas tecnologias da internet no processo de ensino-aprendizagem"_
 : 3rd place on "Education Technologies" category
 
 2010 - II FIICE - Feira Interna de Iniciação Científica e Extensão do Instituto Federal Catarinense – Campus Camboriú
 : Project: _"O uso das novas tecnologias da internet no processo de ensino-aprendizagem"_
 : 3rd place on "Computing" category
-
-## Languages
-
-* Portuguese - Native
-* English - Fluent
