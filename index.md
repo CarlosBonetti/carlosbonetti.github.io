@@ -5,7 +5,7 @@ title: Carlos Bonetti
 
 ## About me
 
-I'm a Computer Science student at Universidade Federal de Santa Catarina - [UFSC](http://ufsc.br/).
+I'm a Computer Science student at Universidade Federal de Santa Catarina - [UFSC](http://ufsc.br/)
 
 ### Contact
 
@@ -14,4 +14,4 @@ I'm a Computer Science student at Universidade Federal de Santa Catarina - [UFSC
 
 ### Curriculum
 
-See the HTML version [in portuguese](/curriculum_pt.html) or [in english](/curriculum_en.html).
+See the HTML version [in portuguese](/curriculum_pt.html) or [in english](/curriculum_en.html)
