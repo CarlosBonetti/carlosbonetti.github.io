@@ -50,6 +50,10 @@ title: Résumé | Carlos Bonetti
 
 ## Professional Experience
 
+2015-present: [Bridge Lab](https://bridge.ufsc.br/)
+: [Universidade Federal de Santa Catarina](http://ufsc.br), Florianópolis, SC, Brazil
+: Roles: Software Development
+
 2014 - Internship: [Wynford](http://www.wynfordtwg.com/)
 : Toronto, Ontario, Canada
 : Roles: Software development and maintenance

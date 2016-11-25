@@ -50,6 +50,10 @@ title: Currículo | Carlos Bonetti
 
 ## Experiência Profissional
 
+2015-presente: [Laboratório Bridge](https://bridge.ufsc.br/)
+: [Universidade Federal de Santa Catarina](http://ufsc.br), Florianópolis, SC, Brasil
+: Função: Desenvolvimento de Sofware
+
 2014 - Estágio: [Wynford](http://www.wynfordtwg.com/)
 : Toronto, Ontario, Canadá
 : Função: Desenvolvimento e Manutenção de Software
