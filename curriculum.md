@@ -3,44 +3,35 @@ layout: default
 title: Résumé | Carlos Bonetti
 ---
 
-# Résumé
+# Curriculum
+
+If you'd rather, just go to [my linkedin](https://www.linkedin.com/in/carlos-bonetti/).
 
 ## Abilities and Qualifications
 
 * Object Oriented Programming and design patterns
 * Test-Driven Development
-* Unix systems
-* Version management systems (Git and SVN)
-* SQL and NoSQL databases
-
-#### Languages and paradigms
-
+* Unix systems, Bash Scripting and DevOps
+* Version management systems (Git)
+* SQL (Postgres, Oracle) and NoSQL (MongoDB) databases
+* Java EE, Spring
+* Python, Django
+* Ruby, Rails
+* Javascript, NodeJS and tools: Angular, React, Grunt, Gulp, Webpack (...)
+* HTML5, CSS3 and pre-compilers (Less, Sass)
 * C, C++ and Assembly languages programming
-* Java, Ruby, PHP and Python programming
-* Advanced PHP programming
-* Basic Haskell, Scheme (functional paradigm) and Prolog (logic paradigm) programming
-* Bash (Unix shell scripting)
-
-#### Web development
-
-* HTML5
-* CSS3 and pre-compilers (Less, Sass)
-* Javascript and tools: jQuery, CoffeeScript, NodeJS, Grunt, Angular
-* PHP and frameworks (Zend, CakePHP, Wordpress)
-* Ruby and Ruby on Rails
-* Python and Django
 
 ### Interests
 
-* Software Engineering and Development: Web, Desktop, Mobile and Embedding
+* Software Architecture and Development
 * Linux systems and Open Software
 * Test Development
 * Agile methods
-* Classical Guitar and Brazilian Music
+* Classical Guitar, Music in general
 
 ## Education
 
-2012-present - Undergraduate in Computer Science
+2012-2016 - Undergraduate in Computer Science - *Summa Cum Laude*
 : [UFSC](http://ufsc.br) - Universidade Federal de Santa Catarina.
 : [University of Toronto](http://www.utoronto.ca/) in 2014 by [Ciências sem Fronteiras](http://www.cienciasemfronteiras.gov.br/) scholarship program.
 
@@ -50,21 +41,21 @@ title: Résumé | Carlos Bonetti
 
 ## Professional Experience
 
-2015-present: [Bridge Lab](https://bridge.ufsc.br/)
+2015-present: [Bridge Labs](https://bridge.ufsc.br/)
 : [Universidade Federal de Santa Catarina](http://ufsc.br), Florianópolis, SC, Brazil
-: Roles: Software Development
+: Roles: Full Stack Developer - Java Programmer
 
 2014 - Internship: [Wynford](http://www.wynfordtwg.com/)
 : Toronto, Ontario, Canada
-: Roles: Software development and maintenance
+: Roles: Software developer
 
 2011-2011 - Internship: Índice Educação
 : R. 901, 400 sala 507. Center – Balneário Camboriú, SC, Brazil
-: Roles: Web development
+: Roles: Web developer
 
 2009-2010 - Internship: Laboratório Multidisciplinar Avançado de Transações Imobiliárias e Informática
 : [Instituto Federal Catarinense (IFC)](http://www.ifc.edu.br/site/), Campus Camboriú
-: Roles: Web development, computers maintenance, graphic design and team management
+: Roles: Web developer, graphic designer
 
 ## Languages
 
@@ -87,7 +78,7 @@ title: Résumé | Carlos Bonetti
 ### Presentations and Prizes
 
 2011 - III FIICE - Feira Interna de Iniciação Científica e Extensão do Instituto Federal Catarinense – Campus Camboriú
-: Project: _"DICCA#4: Desafio Interno do Instituto Federal Catarinense Campus Camboriú"_ \
+: Project: _"DICCA#4: Desafio Interno do Instituto Federal Catarinense Campus Camboriú"_
 : 1st place on "Extension" category
 
 2010 - IV MICTI - Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar

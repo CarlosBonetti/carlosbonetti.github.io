@@ -5,7 +5,7 @@ title: Carlos Bonetti
 
 ## About me
 
-I'm a Computer Science student at Universidade Federal de Santa Catarina - [UFSC](http://ufsc.br/)
+I'm a full stack developer at [Florianópolis](https://en.wikipedia.org/wiki/Florian%C3%B3polis), Brazil. I [write code](https://github.com/CarlosBonetti) most of the time. Sometimes I [play](/music.html).
 
 ### Contact
 
@@ -14,4 +14,4 @@ I'm a Computer Science student at Universidade Federal de Santa Catarina - [UFSC
 
 ### Curriculum
 
-See the HTML version [in portuguese](/curriculum_pt.html) or [in english](/curriculum_en.html)
+If you want to hire me, check out my [curriculum](/curriculum.html).
